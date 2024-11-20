@@ -6,14 +6,18 @@
     <description>Recent content on RobinWujw-Site</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Nov 2024 21:24:22 +0800</lastBuildDate>
     <atom:link href="https://robin-wujw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title></title>
       <link>https://robin-wujw.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 19 Nov 2024 21:24:22 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://robin-wujw.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;学会享受变化吧。&lt;/p&gt;
+&lt;p&gt;+++
+date = &amp;lsquo;2024-11-19T21:24:22+08:00&amp;rsquo;
+draft = false
+title = &amp;lsquo;My First Post&amp;rsquo;
++++&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
